@@ -1,1 +1,2 @@
-# project104
+# MeanMedianMode
+solution 104
